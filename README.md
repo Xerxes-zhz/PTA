@@ -1,7 +1,7 @@
 # This my PTA pracice
 
 1. p1001：&check; java  &check; go
-2. p1002: &cross; java &cross; go
+2. p1002: &check; java &check; go
 2. p1003: &cross; java &cross; go
 2. p1004: &cross; java &cross; go
 2. p1005: &cross; java &cross; go
