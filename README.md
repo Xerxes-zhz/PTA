@@ -1,3 +1,3 @@
 # This my PTA pracice
 
-1. p1001：java_all_killed go_all_killed
+1. p1001：&check; java  &check; go_all_killed
