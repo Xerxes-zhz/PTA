@@ -1,4 +1,4 @@
-# This my PTA pracice
+# This my PTA practice
 
 1. p1001：&check; java  &check; go
 2. p1002: &check; java &check; go
